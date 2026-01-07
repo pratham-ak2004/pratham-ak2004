@@ -84,16 +84,16 @@
 ## status
 
 <!---
-[![Pratham's github status](https://github-readme-stats.vercel.app/api?username=pratham-ak2004&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Pratham's github status](https://github-stat.prathamak.me/api?username=pratham-ak2004&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Pratham's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ak2004&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Pratham's most used languages](https://github-stat.prathamak.me/api/top-langs/?username=pratham-ak2004&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->
 <div class="status" style="grid-auto-columns:auto;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" style="margin:5px" src="https://github-readme-stats.vercel.app/api?username=pratham-ak2004&theme=tokyonight&hide_border=true&include_all_commits=true&include_private=true" />
+    <img height=200 align="center" style="margin:5px" src="https://github-stat.prathamak.me/api?username=pratham-ak2004&theme=tokyonight&hide_border=true&include_all_commits=true&include_private=true" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham-ak2004&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true&include_all_commits=true&include_private=true" />
+    <img height=200 align="center" style="margin:5px" src="https://github-stat.prathamak.me/api/top-langs?username=pratham-ak2004&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true&include_all_commits=true&include_private=true" />
     </a>
 </div>
 
@@ -113,34 +113,34 @@
 ## Top Repositories
 
 <!---
-[![College Restaurant menu](https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=restaurant-menu)](https://github.com/pratham-ak2004/restaurant-menu)
-[![SMS Spam Classifier](https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=sms-spam-classifier)](https://github.com/pratham-ak2004/sms-spam-classifier)
-[![PDF-Reader](https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=PDF-Reader)](https://github.com/pratham-ak2004/PDF-Reader)
+[![College Restaurant menu](https://github-stat.prathamak.me/api/pin/?username=pratham-ak2004&repo=restaurant-menu)](https://github.com/pratham-ak2004/restaurant-menu)
+[![SMS Spam Classifier](https://github-stat.prathamak.me/api/pin/?username=pratham-ak2004&repo=sms-spam-classifier)](https://github.com/pratham-ak2004/sms-spam-classifier)
+[![PDF-Reader](https://github-stat.prathamak.me/api/pin/?username=pratham-ak2004&repo=PDF-Reader)](https://github.com/pratham-ak2004/PDF-Reader)
 --->
 <div class="repos" style="grid-auto-columns: auto;">
     <a href="https://github.com/pratham-ak2004/Run">
-    <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=Run&theme=tokyonight&hide_border=false" />
+    <img height=120 width=350 align="center" src="https://github-stat.prathamak.me/api/pin/?username=pratham-ak2004&repo=Run&theme=tokyonight&hide_border=false" />
     </a>
     <a href="https://github.com/pratham-ak2004/sms-spam-classifier">
-    <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=sms-spam-classifier&theme=tokyonight&hide_border=false" />
+    <img height=120 width=350 align="center" src="https://github-stat.prathamak.me/api/pin/?username=pratham-ak2004&repo=sms-spam-classifier&theme=tokyonight&hide_border=false" />
     </a>
     <a href="https://github.com/pratham-ak2004/Tensorflow-windows-installation-guide">
-    <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=Tensorflow-windows-installation-guide&theme=tokyonight&hide_border=false" />
+    <img height=120 width=350 align="center" src="https://github-stat.prathamak.me/api/pin/?username=pratham-ak2004&repo=Tensorflow-windows-installation-guide&theme=tokyonight&hide_border=false" />
     </a>
     <a href="https://github.com/pratham-ak2004/real-incognito">
-    <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=real-incognito&theme=tokyonight&hide_border=false" />
+    <img height=120 width=350 align="center" src="https://github-stat.prathamak.me/api/pin/?username=pratham-ak2004&repo=real-incognito&theme=tokyonight&hide_border=false" />
     </a>
     <a href="https://github.com/pratham-ak2004/HF24-TechMen/tree/main">
-    <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=HF24-TechMen&theme=tokyonight&hide_border=false" />
+    <img height=120 width=350 align="center" src="https://github-stat.prathamak.me/api/pin/?username=pratham-ak2004&repo=HF24-TechMen&theme=tokyonight&hide_border=false" />
     </a>
     <!-- <a href="https://github.com/pratham-ak2004/URL-Store">
-    <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=URL-store&theme=tokyonight&hide_border=false" />
+    <img height=120 width=350 align="center" src="https://github-stat.prathamak.me/api/pin/?username=pratham-ak2004&repo=URL-store&theme=tokyonight&hide_border=false" />
     </a>
     <a href="https://github.com/pratham-ak2004/URL-Shortner-backend">
-    <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=URL-Shortner-backend&theme=tokyonight&hide_border=false" />
+    <img height=120 width=350 align="center" src="https://github-stat.prathamak.me/api/pin/?username=pratham-ak2004&repo=URL-Shortner-backend&theme=tokyonight&hide_border=false" />
     </a> -->
     <a href="https://github.com/pratham-ak2004/PDF-Reader">
-    <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=PDF-Reader&theme=tokyonight&hide_border=false" />
+    <img height=120 width=350 align="center" src="https://github-stat.prathamak.me/api/pin/?username=pratham-ak2004&repo=PDF-Reader&theme=tokyonight&hide_border=false" />
     </a>
 </div>
 
