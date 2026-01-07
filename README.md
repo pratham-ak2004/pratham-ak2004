@@ -1,26 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pratham A Kadekar</h1>
-<h3 align="center">A passionate Machine Learning and Full stack developer student from India</h3>
+<h3 align="center">A passionate Machine Learning and Full stack developer from India</h3>
 
 <div align="center">
-<img align="center" src="https://github.com/pratham-ak2004/pratham-ak2004/assets/124170443/33c83b40-4880-475a-828f-f09cc2b188e2"/>
+    <img align="center" src="https://github.com/pratham-ak2004/pratham-ak2004/assets/124170443/33c83b40-4880-475a-828f-f09cc2b188e2"/>
 </div>
 
-<!-- - 🔭 I’m currently working on [E-Mail service](https://github.com/pratham-ak2004) -->
+- I am a software developer with major focus on Web and AI
+- My day-to-day problems are the source of problem statement to by projects
+- Playing games and watching anime is what I do when I have free time
+- Currently working on a scraping project which involves golang server and python celery worker
 
-- 🌱 I’m currently learning **Typescript, SvelteKit, Tensorflow**
-
-- 👯 I’m looking to collaborate on **_[Web development](https://github.com/pratham-ak2004)_**
-
-<!-- - 🤝 I’m looking for help with [UI/UX design](https://github.com/pratham-ak2004) -->
-
-- 👨‍💻 All of my projects are available at **_[My GitHub account](https://github.com/pratham-ak2004)_**
-
-- 💬 Ask me about **C++, Typescript and machine learning**
-
-- 📫 How to reach me **pratham20442@gmail.com**
-
-- ⚡ Fun fact **I am a happy person :) and will always be there for your help**
-
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pratham a kadekar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="pratham a kadekar" height="30" width="40" /></a>
@@ -32,17 +22,10 @@
 <a href="https://auth.geeksforgeeks.org/user/kadekarpra518a" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1280px-GeeksforGeeks.svg.png" alt="kadekarpra518a" height="30" width="40" /></a>
 <a href="https://github.com/pratham-ak2004" target="blank"><img align="center" src="https://th.bing.com/th/id/R.30c1fafc7aa1468598def16710b403e8?rik=9uTi%2f6M0Rn5JSA&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_415633.png&ehk=jlQlkcNRQskLEzTwE9i3S3ge7NEFpmq%2fdu4JrZgs1%2bQ%3d&risl=&pid=ImgRaw&r=0" alt="kadekarpra518a" height="30" width="40" /></a>
 </p>
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <!---
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-    </a>
-    --->
-    <!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> 
-    </a>  -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> 
     </a> 
@@ -58,11 +41,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> 
     </a> 
-    <!---
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
-    --->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
@@ -94,17 +72,11 @@
         <img src="https://raw.githubusercontent.com/fiorelorenzo/svelte-splide/HEAD/images/svelte-logo.png" alt="svelte" width="40" height="40"/> 
     </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/> 
+    </a> 
+     <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_150,q_auto:good,w_150/v1/gcs/platform-data-dsc/events/Tailwind_CSS_Logo.svg_GkNDLAs.png" alt="tailwind" width="40" height="40"/> 
     </a> 
-    <!-- <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a> -->
 </p>
 
 ### Still more to learn ...
@@ -169,6 +141,7 @@
     </a> -->
     <a href="https://github.com/pratham-ak2004/PDF-Reader">
     <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=PDF-Reader&theme=tokyonight&hide_border=false" />
+    </a>
 </div>
 
 ## Support
